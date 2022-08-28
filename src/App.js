@@ -5,7 +5,7 @@ import Demo from './Components/Demo.js'
 function App() {
   return (
    <React.Fragment>
-    Hai Jithin
+    Expense Items
     <Demo></Demo>
    </React.Fragment>
   );
